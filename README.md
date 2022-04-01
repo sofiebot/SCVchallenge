@@ -20,4 +20,4 @@ You'll find the items of each type of task done
 - Please have in mind the selected framework was Selenium Framework
 
 **5. Mobile**
-- The tests scenarios are located withing the zipfile with the name SCV_Challenge_TestCases_Mobile
+- The tests scenarios are located withing the zipfile with the name SCV_Challenge_TestScenarios_Mobile
