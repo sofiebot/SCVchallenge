@@ -3,7 +3,7 @@ SCV_technicalQAchallenge_sofiebot
 
 Technical challenge for Heroku App 
 
-You'll find the items of each type of task done
+You'll find the items of each type of task done in the zipfile with the name SCV_Challenge_sgrimmer
 
 **Requirements**
 - The automated tests were made in Python for Selenium IDE / Please have this is mind when opening the file
