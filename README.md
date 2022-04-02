@@ -16,7 +16,7 @@ You'll find the items of each type of task done in the zipfile with the name SCV
 - Evidence for each bug is located within the zipfile in the Evidence folder
 
 **3. APIs**
-- The postman collection with the API solved can be found in the JSON file with the name SCV_Challenge_APIs.postman_collection
+- The postman collection with the APIs solved can be found in the JSON file with the name SCV_Challenge_APIs.postman_collection
 - Automated run of 10 iterations of requests can be found in the JSON file with the name SCV_Challenge_APIs.postman_test_run
 
 **4. Automation**
@@ -24,4 +24,4 @@ You'll find the items of each type of task done in the zipfile with the name SCV
 - Please have in mind the selected framework was Selenium Framework
 
 **5. Mobile**
-- The tests scenarios are located withing the zipfile with the name SCV_Challenge_TestScenarios_Mobile
+- The tests scenarios are located within the zipfile with the name SCV_Challenge_TestScenarios_Mobile
