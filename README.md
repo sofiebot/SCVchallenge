@@ -3,7 +3,7 @@ SCV_technicalQAchallenge_sofiebot
 
 Technical challenge for Heroku App 
 
-You'll find the items of each type of task done in the zipfile with the name SCV_Challenge_sgrimmer
+You'll find the items of each task done in the zipfile with the name SCV_Challenge_sgrimmer
 
 **Requirements**
 - The automated tests were made in Python for Selenium IDE / Please have this is mind when opening the file
@@ -20,7 +20,7 @@ You'll find the items of each type of task done in the zipfile with the name SCV
 - Automated run of 10 iterations of requests can be found in the JSON file with the name SCV_Challenge_APIs.postman_test_run
 
 **4. Automation**
-- The selected test cases for the set of tests where: 1. Enter URL 2. Make a purchase 3. Make a sale
+- The selected test cases for the set of tests were: 1. Enter URL 2. Make a purchase 3. Make a sale
 - Please have in mind the selected framework was Selenium Framework
 
 **5. Mobile**
