@@ -15,7 +15,7 @@ You'll find the items of each type of task done
 - The bugreport is located within the zipfile with the name SCV_Challenge_TestCases_SMTMHerokuApp
 - Evidence for each bug is located within the zipfile in the Evidence folder
 
-**3. APIs*
+**3. APIs**
 - The postman collection with the API solved can be found in the JSON file with the name SCV_Challenge_APIs.postman_collection
 - Automated run of 10 iterations of requests can be found in the JSON file with the name SCV_Challenge_APIs.postman_test_run
 
