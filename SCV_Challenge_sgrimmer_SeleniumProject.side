@@ -1,0 +1,161 @@
+{
+  "id": "f7f21fa4-d615-4260-b03b-6f1956b8c60c",
+  "version": "2.0",
+  "name": "SCV_Challenge_sgrimmer",
+  "url": "https://glacial-reef-23457.herokuapp.com",
+  "tests": [{
+    "id": "5da97cb8-f97b-40a3-b421-8ab061dfcd46",
+    "name": "SCV_Challenge_Selenium_Tests",
+    "commands": [{
+      "id": "b6cae76b-cedd-4fbf-ab92-9e1fef57b2d5",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "20123091-4692-4fb9-a7bd-200f5819b756",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1936x1048",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "c8dd941c-a7d2-4613-bfe9-d26069f5dbcc",
+      "comment": "",
+      "command": "click",
+      "target": "css=.my-investments__title",
+      "targets": [
+        ["css=.my-investments__title", "css:finder"],
+        ["xpath=//button[@type='button']", "xpath:attributes"],
+        ["xpath=//div[@id='app-container']/div/aside/section/button", "xpath:idRelative"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Mis inversiones')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "ea58bcf9-f778-4e8b-83ac-bc6b55a1fbd7",
+      "comment": "",
+      "command": "click",
+      "target": "css=.my-investments__list:nth-child(5) .my-investments__items__name",
+      "targets": [
+        ["css=.my-investments__list:nth-child(5) .my-investments__items__name", "css:finder"],
+        ["xpath=(//button[@type='button'])[2]", "xpath:attributes"],
+        ["xpath=//div[@id='app-container']/div/aside/section/ul/li/button", "xpath:idRelative"],
+        ["xpath=//li/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Ternium Argentina')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "ce68a11f-cec0-4da9-9c3d-4d54bafbb035",
+      "comment": "",
+      "command": "click",
+      "target": "css=div:nth-child(4) > input",
+      "targets": [
+        ["css=div:nth-child(4) > input", "css:finder"],
+        ["xpath=//input[@type='number']", "xpath:attributes"],
+        ["xpath=//div[@id='app-container']/div/main/section/div/div/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "f08a6b37-d41c-4694-b32d-285e386912b9",
+      "comment": "",
+      "command": "type",
+      "target": "css=div:nth-child(4) > input",
+      "targets": [
+        ["css=div:nth-child(4) > input", "css:finder"],
+        ["xpath=//input[@type='number']", "xpath:attributes"],
+        ["xpath=//div[@id='app-container']/div/main/section/div/div/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "010"
+    }, {
+      "id": "6c95298c-caec-4a28-9e65-4722d39f4f2b",
+      "comment": "",
+      "command": "click",
+      "target": "css=.btn",
+      "targets": [
+        ["css=.btn", "css:finder"],
+        ["xpath=(//button[@type='button'])[24]", "xpath:attributes"],
+        ["xpath=//div[@id='app-container']/div/main/section/div/div/button", "xpath:idRelative"],
+        ["xpath=//div/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Realizar compra')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "440c3167-bccb-4364-a889-405fba5be9c9",
+      "comment": "",
+      "command": "click",
+      "target": "css=.my-investments__list:nth-child(7) .my-investments__items__name",
+      "targets": [
+        ["css=.my-investments__list:nth-child(7) .my-investments__items__name", "css:finder"],
+        ["xpath=(//button[@type='button'])[6]", "xpath:attributes"],
+        ["xpath=//div[@id='app-container']/div/aside/section/ul[3]/li/button", "xpath:idRelative"],
+        ["xpath=//ul[3]/li/button", "xpath:position"],
+        ["xpath=//button[contains(.,'BONO REPÚBLICA ARGENTINA LEY LOCAL 2038')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "6d0146f6-d882-4ebd-8eaf-7deb4bc61090",
+      "comment": "",
+      "command": "click",
+      "target": "css=div:nth-child(5) > input",
+      "targets": [
+        ["css=div:nth-child(5) > input", "css:finder"],
+        ["xpath=(//input[@type='number'])[2]", "xpath:attributes"],
+        ["xpath=//div[@id='app-container']/div/main/section/div/div[2]/input", "xpath:idRelative"],
+        ["xpath=//div[2]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "32e0d2b6-b045-4fba-b26a-1d925b035708",
+      "comment": "",
+      "command": "type",
+      "target": "css=div:nth-child(5) > input",
+      "targets": [
+        ["css=div:nth-child(5) > input", "css:finder"],
+        ["xpath=(//input[@type='number'])[2]", "xpath:attributes"],
+        ["xpath=//div[@id='app-container']/div/main/section/div/div[2]/input", "xpath:idRelative"],
+        ["xpath=//div[2]/input", "xpath:position"]
+      ],
+      "value": "020"
+    }, {
+      "id": "f285a612-5d8b-47fa-8855-c5c53bc35760",
+      "comment": "",
+      "command": "click",
+      "target": "css=.btn",
+      "targets": [
+        ["css=.btn", "css:finder"],
+        ["xpath=(//button[@type='button'])[24]", "xpath:attributes"],
+        ["xpath=//div[@id='app-container']/div/main/section/div/div[2]/button", "xpath:idRelative"],
+        ["xpath=//div[2]/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Realizar venta')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "d86eab86-d447-4247-b2dd-f66f1058c725",
+      "comment": "",
+      "command": "click",
+      "target": "css=.my-investments__title",
+      "targets": [
+        ["css=.my-investments__title", "css:finder"],
+        ["xpath=//button[@type='button']", "xpath:attributes"],
+        ["xpath=//div[@id='app-container']/div/aside/section/button", "xpath:idRelative"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Mis inversiones')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "18df1e89-a4ec-4909-a214-624cb8d7f695",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["5da97cb8-f97b-40a3-b421-8ab061dfcd46"]
+  }],
+  "urls": ["https://glacial-reef-23457.herokuapp.com/"],
+  "plugins": []
+}
