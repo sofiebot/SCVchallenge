@@ -16,8 +16,7 @@ You'll find the items of each task done in the zipfile under the name SCV_Challe
 - Evidence for each bug is located within the zipfile in the Evidence folder
 
 **3. APIs**
-- The postman collection with the APIs solved can be found in the JSON file under the name SCV_Challenge_APIs.postman_collection and within the zipfile
-- Automated run of 10 iterations of requests can be found in the JSON file under the name SCV_Challenge_APIs.postman_test_run and within the zipfile
+- The postman collection with the APIs solved can be found in the JSON file under the name APIs_SMTM.postman_collection and within the zipfile
 
 **4. Automation**
 - The selected test cases for the set of tests were: 1. Enter URL 2. Make a purchase 3. Make a sale
